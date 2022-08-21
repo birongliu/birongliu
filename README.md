@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, My name is Bi Rong 👋
 
+---
 <!--
 **birongliu/birongliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
