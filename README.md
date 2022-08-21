@@ -1,4 +1,4 @@
-### Hi there, My name is Bi Rong 👋 ![](https://komarev.com/ghpvc/?username=birongliu&color=gold)
+### Hi there, My name is Bi Rong 👋 ![](https://komarev.com/ghpvc/?username=birongliu&color=FFD700)
 
 ---
 <!--
