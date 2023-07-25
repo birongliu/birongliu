@@ -1,6 +1,6 @@
 # Hello, My name is Bi Rong 👋 ![](https://komarev.com/ghpvc/?username=birongliu&color=FFD700)
 
-## Contribution
+### Contribution
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/birongliu/birongliu/output/github-contribution-grid-snake-dark.svg">
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/birongliu/birongliu/output/github-contribution-grid-snake.svg">
