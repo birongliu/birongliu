@@ -1,4 +1,4 @@
-# Hello, My name is Bi Rong 👋 ![](https://komarev.com/ghpvc/?username=birongliu&color=FFD700)
+# Hello, I'm Bi Rong 👋 ![](https://komarev.com/ghpvc/?username=birongliu&color=FFD700)
 ## 🔭 Work in progress projects
 - [AstralNova](https://github.com/AstralNovaDevelopment/AstralNova): A discord bot that foucs on economics.
 
