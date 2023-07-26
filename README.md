@@ -1,6 +1,6 @@
 # Hello, My name is Bi Rong 👋 ![](https://komarev.com/ghpvc/?username=birongliu&color=FFD700)
 ## 🔭 On going project as of July 26, 2023
-- [AstralNova](https://github.com/AstralNovaDevelopment/AstralNova]: A discord bot that foucs on economics.
+- [AstralNova](https://github.com/AstralNovaDevelopment/AstralNova): A discord bot that foucs on economics.
 
 ## Contribution Calender
 <picture>
