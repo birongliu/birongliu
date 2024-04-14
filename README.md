@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birongliu&label=Profile%20views&color=0e75b6&style=flat" alt="birongliu" /> </p>
 
-- 🔭 I’m currently working on [FinFlow](https://github.com/birongliu/ZenFlow)
+- 🔭 I’m currently working on [FinFlow](https://github.com/birongliu/FinFlow)
 
 - 🌱 I’m currently learning **Swift Programming Language**
 
