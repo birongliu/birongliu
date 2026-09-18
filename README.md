@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://birongliu.dev](https://birongliu.dev)
 
-- 📝 I regularly write articles on [https://blog.birongliu.dev](https://blog.birongliu.dev)
-
 - 📄 Know about my experiences [https://birongliu.dev/resume](https://birongliu.dev/resume)
 
 <h3 align="left">Connect with me:</h3>
